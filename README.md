@@ -15,7 +15,7 @@ This is a footswitch using TMK's keyboard firmware for a Teensy 2.
 2. Disconnect the original cable.
 3. Remove any unnecessary switches and circuitry.
 4. Connect the switch to B0 and B1 of your Teensy.
-5. Fix your Teensy to the inside of your pedel.
+5. Fix your Teensy to the inside of your pedal.
 6. Run your USB cable from the Teensy out of the pedal housing.
 7. Clone the TMK keyboard firmware from https://github.com/tmk/tmk_keyboard.git
 8. `cd` into the checked out directory.
