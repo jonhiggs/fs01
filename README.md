@@ -5,7 +5,7 @@ This is a footswitch using TMK's keyboard firmware for a Teensy 2.
 
 ## 1. Ingredients
 
-* 1 Normally closed footswitch. I used an [M-GEAR sustain pedal](http://www.m-audio.com/products/en_us/SP2.html) for a keyboard.
+* 1 Normally open footswitch. I used an [M-GEAR sustain pedal](http://www.m-audio.com/products/en_us/SP2.html) for a keyboard.
 * 1 [Teensy 2](http://www.pjrc.com/store/teensy.html)
 * 1 Mini-USB cable long enough to run back to your computer.
 
