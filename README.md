@@ -3,13 +3,13 @@ TMK Footswitch
 
 This is a footswitch using TMK's keyboard firmware for a Teensy 2.
 
-# 1. Ingredients
+## 1. Ingredients
 
 * 1 Normally closed footswitch. I used a M-GEAR sustain pedal for a keyboard.
 * 1 Teensy 2
 * 1 Mini-USB cable long enough to run back to your computer.
 
-# 2. Method
+## 2. Method
 
 1. Disassemble your footswitch
 2. Disconnect the original cable.
@@ -25,7 +25,7 @@ https://github.com/jonhiggs/fs01.git keyboards/fs01.git`
 11. Use the 'Teensy App' to program the hex file to your Teensy.
 12. Enjoy your new footswitch.
 
-# 3. Notes
+## 3. Notes
 
 By default the switch sends `L_GUI` which on OS X is the `Command` key. You can
 change the key that is sent in `keymap_plain.c`.
