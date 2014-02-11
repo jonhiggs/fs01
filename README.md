@@ -1,7 +1,9 @@
 TMK Footswitch
 ==============
 
-This is a footswitch using TMK's keyboard firmware for a Teensy 2.
+This is a footswitch using TMK's keyboard firmware for a Teensy 2. As it's seen
+by the OS as a keyboard it should work on any computer that supports USB
+keyboards.
 
 ## 1. Ingredients
 
