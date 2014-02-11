@@ -1,0 +1,4 @@
+*.sw?
+fs01_lufa.*
+obj_fs01_lufa/
+.dep/
