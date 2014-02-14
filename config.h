@@ -27,8 +27,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT         FS1
 #define DESCRIPTION     t.m.k. keyboard firmware for FS1
 
-#define BUTTON          LGUI
-
 /* key matrix size */
 #define MATRIX_ROWS 1
 #define MATRIX_COLS 1
