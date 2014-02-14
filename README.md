@@ -19,7 +19,8 @@ keyboards.
 4. Connect the switch to B0 and B1 of your Teensy.
 5. Fix your Teensy to the inside of your pedal.
 6. Run your USB cable from the Teensy out of the pedal housing.
-7. Clone the TMK keyboard firmware from https://github.com/tmk/tmk_keyboard.git
+7. Clone the TMK keyboard firmware from
+[https://github.com/tmk/tmk_keyboard.git](https://github.com/tmk/tmk_keyboard.git)
 8. `cd` into the checked out directory.
 9. Add this repo as a submodule with `git submodule add
 https://github.com/jonhiggs/fs01.git keyboards/fs01.git`
