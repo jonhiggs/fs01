@@ -79,12 +79,12 @@ OPT_DEFS += -DBOOTLOADER_SIZE=512
 #   comment out to disable the options.
 #
 #BOOTMAGIC_ENABLE = yes  # Virtual DIP switch configuration(+1000)
-MOUSEKEY_ENABLE = yes   # Mouse keys(+5000)
-EXTRAKEY_ENABLE = yes   # Audio control and System control(+600)
-CONSOLE_ENABLE = yes    # Console for debug
-COMMAND_ENABLE = yes    # Commands for debug and configuration
-SLEEP_LED_ENABLE = yes  # Breathing sleep LED during USB suspend
-NKRO_ENABLE = yes       # USB Nkey Rollover(+500)
+#MOUSEKEY_ENABLE = yes   # Mouse keys(+5000)
+#EXTRAKEY_ENABLE = yes   # Audio control and System control(+600)
+#CONSOLE_ENABLE = yes    # Console for debug
+#COMMAND_ENABLE = yes    # Commands for debug and configuration
+#SLEEP_LED_ENABLE = yes  # Breathing sleep LED during USB suspend
+#NKRO_ENABLE = yes       # USB Nkey Rollover(+500)
 #PS2_MOUSE_ENABLE = yes  # PS/2 mouse(TrackPoint) support
 
 #---------------- Programming Options --------------------------
@@ -108,7 +108,7 @@ AVRDUDE_CFG = /Applications/Arduino.app/Contents/Resources/Java/hardware/tools/a
 #AVRDUDE_NO_VERIFY = -V
 
 # Increase verbosity level.  Please use this when submitting bug
-# reports about avrdude. See <http://savannah.nongnu.org/projects/avrdude> 
+# reports about avrdude. See <http://savannah.nongnu.org/projects/avrdude>
 # to submit bug reports.
 AVRDUDE_VERBOSE = -v -v
 
