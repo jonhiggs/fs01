@@ -43,7 +43,7 @@ TARGET = fs01_lufa
 
 # Directory common source files exist
 TOP_DIR = ../..
-LUFA_PATH = protocol/lufa/LUFA-130901
+LUFA_PATH = protocol/lufa/LUFA-120730
 
 # Directory keyboard dependent files exist
 TARGET_DIR = .
